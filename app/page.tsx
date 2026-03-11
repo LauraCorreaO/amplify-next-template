@@ -47,6 +47,9 @@ export default function App() {
           Review next steps of this tutorial.
         </a>
       </div>
+      <div>
+        App Exitosamente modificada! se actualiza al hacer un nuevo commit
+      </div>
     </main>
   );
 }
